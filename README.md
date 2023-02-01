@@ -22,7 +22,7 @@ We learned 10 sprints during the 4-month intensive program.
 - [x] [ATM OOP](Python/Build_Class_ATM.py) - An ATM class `(Object-Oriented Programming)` containing at least 5 methods as ATM functions to interact with users.
 
 ## Essential Python for Data Analyst
-  - [x] [Analysis with Pandas/Numpy](Pandas_Numpy-Final_Project.ipynb) - Using the `pandas` and `numpy` library to analyze sales data
+  - [x] [Analysis with Pandas/Numpy](Python/Pandas_Numpy-Final_Project.ipynb) - Using the `pandas` and `numpy` library to analyze sales data
   - [x] [Public API](Python/Publice_API.ipynb) - Using Public API from [TikTok All in One](https://rapidapi.com/h0p3rwe/api/tiktok-all-in-one/) to create the data frame of Music search
   - [x] [Simple ML models with Sklearn](Python/Sklearn.ipynb) - Using the `sklearn` library to build simple machine learning models for regression and classification problems
 
