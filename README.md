@@ -6,6 +6,7 @@ We learned 10 sprints during the 4-month intensive program.
 ## Spreadsheets
 
 ## SQL Database
+  - [x] ✅ [Restaurant Database](SQL/DB_for_Restaurant.sql) - A small database of a restaurant containing 5 dimension tables and 1 fact table, and some SQL queries to analyze data
 
 ## R Programming
 
