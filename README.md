@@ -30,8 +30,8 @@ We learned 10 sprints during the 4-month intensive program.
  ✅ [Simple ML models with Sklearn](Python/Sklearn.ipynb) - Using the `sklearn` library to build simple machine learning models for regression and classification problems
 
 ## Dashboard
-  - ✅ [Analysis Sales](https://lookerstudio.google.com/reporting/10c4f24d-43f7-455c-8764-3e5afd77799d) - Dashboard showing the data from [Superstore Sales](https://public.tableau.com/app/resources/sample-data) - `Looker Studio`
-  - ✅ [Netflix Content](https://public.tableau.com/views/NetflixDashboard_16752420584000/Netflix_Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link) - Dashboard showing about content in Netflix platform in 2008-2020 from [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows) - `Tableau Public`
+ - ✅ [Analysis Sales](https://lookerstudio.google.com/reporting/10c4f24d-43f7-455c-8764-3e5afd77799d) - Dashboard showing the data from [Superstore Sales](https://public.tableau.com/app/resources/sample-data) - `Looker Studio`
+ - ✅ [Netflix Content](https://public.tableau.com/views/NetflixDashboard_16752420584000/Netflix_Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link) - Dashboard showing about content in Netflix platform in 2008-2020 from [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows) - `Tableau Public`
 
 
 
