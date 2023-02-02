@@ -16,6 +16,7 @@ We learned 10 sprints during the 4-month intensive program.
 - [x] [Rock Paper Scissors](R/Rock-Paper-Scissors.r) - An interactive mini game with bot using `R`
 
 ## Data Transformation
+- [x] [NYC Flights 2013 Analysis](R/NYC_Flights_2013_Analysis.pdf) - Analyzing the `nycflights13` dataset using the `dplyr` package in `R`
 
 ## Data Visualization
 
