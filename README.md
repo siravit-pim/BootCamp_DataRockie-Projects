@@ -4,6 +4,9 @@
 We learned 10 sprints during the 4-month intensive program.
 
 ## Spreadsheets
+- [x] [Dynamic Query](Spreadsheets/Dynamic Query.pdf) -  Queries that return results dynamically  
+- [x] [Converting Date](Spreadsheets/Convert TH to EN Date.pdf) - Converting TH date to EN date
+- [x] [ID Card Parser](Spreadsheets/ID Card Parser.pdf) - Using regular expression to extract and parse ID card information
 
 ## SQL Database
 - [x] [Restaurant Database](SQL/DB_for_Restaurant.sql) - A small database of a restaurant containing 5 dimension tables and 1 fact table, and some SQL queries to analyze data
