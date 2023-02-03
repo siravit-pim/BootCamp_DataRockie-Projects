@@ -1,5 +1,5 @@
 # Data Science Bootcamp Projects
-  `adToy` - [DataRockie](https://datarockie.com/) 
+[DataRockie](https://datarockie.com/)  -   `adToy`
 
 We learned 10 sprints during the 4-month intensive program.
 
@@ -19,6 +19,7 @@ We learned 10 sprints during the 4-month intensive program.
 - [x] [NYC Flights 2013 Analysis](https://rpubs.com/zkiddy/998047) - Analyzing the `nycflights13` dataset using the `dplyr` package in `R`
 
 ## Data Visualization
+- [x] [Diamonds](https://rpubs.com/zkiddy/998489) - Creating charts to visualize the data queried using the `ggplot2` package in `R`
 
 ## Statistics
 
