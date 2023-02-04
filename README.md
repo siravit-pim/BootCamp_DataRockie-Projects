@@ -27,6 +27,7 @@ We learned 10 sprints during the 4-month intensive program.
 - [x] [A/B Testing](Spreadsheets/AB_Test.pdf) - random 2 values for test `A/B Testing` between 2 store has ads and non-ads in Spreadsheets
  
 ## Intro to Classical Machine Learning
+- [x] [ML_model](https://rpubs.com/zkiddy/998863) - Using library `caret`,package in `R`. for train ML_model
 
 ## Intro to Python Programming
 - [x] [Rock Paper Scissors](Python/MiniGame-Rock_Paper_Scissors.ipynb) - An interactive mini game with bot using `Python`
@@ -40,7 +41,5 @@ We learned 10 sprints during the 4-month intensive program.
 ## Dashboard
 - [x] [Analysis Sales](https://lookerstudio.google.com/reporting/10c4f24d-43f7-455c-8764-3e5afd77799d) - Dashboard showing the data from [Superstore Sales](https://public.tableau.com/app/resources/sample-data) - `Looker Studio`
 - [x] [Netflix Content](https://public.tableau.com/views/NetflixDashboard_16752420584000/Netflix_Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link) - Dashboard showing about content in Netflix platform in 2008-2020 from [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows) - `Tableau Public`
-
-
 
 Badge : 
