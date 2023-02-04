@@ -22,7 +22,10 @@ We learned 10 sprints during the 4-month intensive program.
 - [x] [Diamonds](https://rpubs.com/zkiddy/998489) - Creating charts to visualize the data queried using the `ggplot2` package in `R`
 
 ## Statistics
-
+- [x] [Titanic Survival Prediction](https://rpubs.com/zkiddy/998834) - Using the `titanic` dataset to predict the survival of Titanic passengers by logistic regression in `R`
+- [x] [Diamonds-Linear Regression](Spreadsheets/Linear_Regression.pdf) - Running linear regression by analysis tools in Excel from [diamonds](https://raw.githubusercontent.com/tidyverse/ggplot2/main/data-raw/diamonds.csv) dataset
+- [x] [A/B Testing](Spreadsheets/AB_Test.pdf) - random 2 values for test `A/B Testing` between 2 store has ads and non-ads in Spreadsheets
+ 
 ## Intro to Classical Machine Learning
 
 ## Intro to Python Programming
