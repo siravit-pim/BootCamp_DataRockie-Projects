@@ -1,5 +1,5 @@
 # Data Analyst Projects
-with [DataRockie](https://datarockie.com/)  -   `adToy`
+Data Analyst Bootcamp with [DataRockie](https://datarockie.com/)  -   `adToy`
 
 We learned 10 sprints during the 4-month intensive program.
 
