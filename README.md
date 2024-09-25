@@ -44,4 +44,5 @@ We learned 10 sprints during the 4-month intensive program.
 
 
 **Badge: [Certified Professional Data Analyst](https://api.badgr.io/public/assertions/Y7IekyR1QxKrlbYqyoKwEg?identity__email=siravit.pim%40gmail.com)** <br>
-![Certified Professional Data Analyst Badge](https://api.badgr.io/public/assertions/Y7IekyR1QxKrlbYqyoKwEg/image)
+![Certified Professional Data Analyst Badge](https://media.badgr.com/uploads/badges/assertion-Y7IekyR1QxKrlbYqyoKwEg.png)
+
